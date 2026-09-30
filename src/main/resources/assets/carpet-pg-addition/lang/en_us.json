@@ -1,0 +1,6 @@
+{
+  "carpet-pg-addition.rule.openPlayerCommand.desc": "Allows using /player command without operator permission in singleplayer",
+  "carpet-pg-addition.rule.openPlayerCommand.extra": "Only takes effect in singleplayer (integrated server)",
+  "carpet-pg-addition.rule.openCarpetCommand.desc": "Allows using /carpet command without operator permission in singleplayer",
+  "carpet-pg-addition.rule.openCarpetCommand.extra": "Only takes effect in singleplayer (integrated server)"
+}

@@ -1,0 +1,6 @@
+{
+  "carpet-pg-addition.rule.openPlayerCommand.desc": "在单人游戏中无需管理员权限即可使用 /player 命令",
+  "carpet-pg-addition.rule.openPlayerCommand.extra": "仅在单人游戏（集成服务器）中生效",
+  "carpet-pg-addition.rule.openCarpetCommand.desc": "在单人游戏中无需管理员权限即可使用 /carpet 命令",
+  "carpet-pg-addition.rule.openCarpetCommand.extra": "仅在单人游戏（集成服务器）中生效"
+}

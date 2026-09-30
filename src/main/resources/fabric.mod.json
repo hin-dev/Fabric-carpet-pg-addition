@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "carpet-pg-addition",
+  "version": "${version}",
+
+  "name": "carpet Permission granted addition",
+  "description": "这是一个让你在没有开启作弊的时候使用/player和/carpet命令的mod",
+  "authors": [
+    "tako"
+  ],
+  "contact": {
+    "homepage": "https://web.me/",
+    "sources": "https://github.com/gnembon/fabric-carpet-extension-example-mod"
+  },
+
+  "license": "CC0-1.0",
+  "icon": "assets/modid/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "tako.carpetorgaddition.CarpetPGAddition"
+    ]
+  },
+  "mixins": [
+    "modid.mixins.json"
+  ],
+
+  "depends": {
+    "minecraft": ">=26.2",
+    "fabricloader": ">=0.19.5",
+    "java": ">=25"
+  },
+  "suggests": {
+    "flamingo": "*"
+  }
+}

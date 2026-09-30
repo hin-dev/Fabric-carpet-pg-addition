@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "package": "tako.carpetorgaddition.mixin",
+  "compatibilityLevel": "JAVA_25",
+  "mixins": [
+  ],
+  "client": [
+    "PlayerCommandMixin",
+    "SettingsManagerMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
