@@ -15,14 +15,14 @@ repositories {
 		filter {
 			includeGroup "maven.modrinth"
 		}
-	}
+	}template-mod
 }
 
 version = project.mod_version
 
 fabricApi {
 	configureDataGeneration {
-		modId = "template-mod"
+		modId = "carpet-pg-addition"
 	}
 }
 
